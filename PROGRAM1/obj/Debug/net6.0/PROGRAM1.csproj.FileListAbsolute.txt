@@ -1,0 +1,15 @@
+C:\Users\jmora\OneDrive\Escritorio\PARCIAL1\PROGRAM1\bin\Debug\net6.0\PROGRAM1.exe
+C:\Users\jmora\OneDrive\Escritorio\PARCIAL1\PROGRAM1\bin\Debug\net6.0\PROGRAM1.deps.json
+C:\Users\jmora\OneDrive\Escritorio\PARCIAL1\PROGRAM1\bin\Debug\net6.0\PROGRAM1.runtimeconfig.json
+C:\Users\jmora\OneDrive\Escritorio\PARCIAL1\PROGRAM1\bin\Debug\net6.0\PROGRAM1.dll
+C:\Users\jmora\OneDrive\Escritorio\PARCIAL1\PROGRAM1\bin\Debug\net6.0\PROGRAM1.pdb
+C:\Users\jmora\OneDrive\Escritorio\PARCIAL1\PROGRAM1\obj\Debug\net6.0\PROGRAM1.csproj.AssemblyReference.cache
+C:\Users\jmora\OneDrive\Escritorio\PARCIAL1\PROGRAM1\obj\Debug\net6.0\PROGRAM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmora\OneDrive\Escritorio\PARCIAL1\PROGRAM1\obj\Debug\net6.0\PROGRAM1.AssemblyInfoInputs.cache
+C:\Users\jmora\OneDrive\Escritorio\PARCIAL1\PROGRAM1\obj\Debug\net6.0\PROGRAM1.AssemblyInfo.cs
+C:\Users\jmora\OneDrive\Escritorio\PARCIAL1\PROGRAM1\obj\Debug\net6.0\PROGRAM1.csproj.CoreCompileInputs.cache
+C:\Users\jmora\OneDrive\Escritorio\PARCIAL1\PROGRAM1\obj\Debug\net6.0\PROGRAM1.dll
+C:\Users\jmora\OneDrive\Escritorio\PARCIAL1\PROGRAM1\obj\Debug\net6.0\refint\PROGRAM1.dll
+C:\Users\jmora\OneDrive\Escritorio\PARCIAL1\PROGRAM1\obj\Debug\net6.0\PROGRAM1.pdb
+C:\Users\jmora\OneDrive\Escritorio\PARCIAL1\PROGRAM1\obj\Debug\net6.0\PROGRAM1.genruntimeconfig.cache
+C:\Users\jmora\OneDrive\Escritorio\PARCIAL1\PROGRAM1\obj\Debug\net6.0\ref\PROGRAM1.dll
